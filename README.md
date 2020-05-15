@@ -26,12 +26,12 @@ ejem:
 
 🦜 **Ley de firmas y certificados digitales**
     
-   🚀 **Hash** caracteres hexadecimales de longitud fija(depende de la función de hash usada). Se usa para verificar la integridad
+ - 🚀 **Hash** caracteres hexadecimales de longitud fija(depende de la función de hash usada). Se usa para verificar la integridad
    
-   🚀 **Llave asimétrica** se usa para los certificados digitales
+ - 🚀 **Llave asimétrica** se usa para los certificados digitales
    
    
-   🚀 **Llave simétrica** Se usa para cifrar grandes volúmenes de datos.
+ - 🚀 **Llave simétrica** Se usa para cifrar grandes volúmenes de datos.
    
  🦜 **Ley de protección de datos personales** Art. 2 numeral 6
  
