@@ -85,4 +85,40 @@ ejem:
    
  
  
+ ## Etical Hacking
  
+ ### Fases
+ 
+ **Reconocimiento**
+ 
+ - OSINT
+ 
+ **Escaning**
+ 
+ - puertos abiertos
+ - servidores
+ 
+ **Obtener acceso**
+ 
+ **Mantener acceso**
+ 
+ **Cubrir pistas**
+ 
+ ## Buffer over Flow
+ 
+ Más común en Linux y programas C, se da cuando se le pasa un parámetro de tamaño mayor al que esta declarado en el buffer
+ 
+ ### TIPOS
+ 
+ **Stack over flow**
+ 
+ Se da cuando el programa no gestiona bien los parámetros de entrada
+ 
+ - **stack** es un espacio en memoria que usa el OS para almacenar funciones, variables, etc.
+ - **Extensible instruction Pointer(EIP)**  Direccion de la siguiente instrucción
+ - **Extensible Stack Pointer (ESP)** dirección más alta del stack (COMIENZO)
+ - **Extensible Base Pointer(EBP)** dirección baja del stack
+ 
+ **sol** usar funciones que manejan mejor la memoria como fgets() y no gets(); strncpy() y no strcpy; la mayoria tiene n en su nombre; también usar ASRL
+ 
+ **Heap over flow**
