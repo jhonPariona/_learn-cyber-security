@@ -1,4 +1,4 @@
-# Vulnerabilidad
+# [Vulnerabilidad](https://github.com/jhonPariona/_learn-pentesting/blob/master/scanning.md#-vulnerabilidades)
 
  Culquier defecto de software o hardware
  
