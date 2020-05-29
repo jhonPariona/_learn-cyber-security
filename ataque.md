@@ -45,4 +45,75 @@
  **MitMo** Hombre en el movil Toma el control de dispositivos móviles.
  
  
+ ## Ingeniería social
  
+ Manipular a las personas.
+ 
+ ### Shoulder Surfing 
+ 
+ Ver y adivinar la contraseña que escribe la victima
+ 
+ ### Tipos
+ 
+ **Pretexto** Miente para acceder a información privilegiada
+ 
+ **Seguimiento**
+ 
+ **Quid pro quo Algo por algo** Solicita información a cambio de un obsequio.
+ 
+
+ 
+ 
+ ## [ecodificación de Contraseñas](https://github.com/jhonPariona/_learn-cyber-security/blob/master/contrase%C3%B1as.md#contrase%C3%B1as)
+ 
+  ## bash
+ 
+ En linux significa que un usuario tiene una contraseña
+ 
+ ```bash
+ $ unshadow /etc/passwd /etc/shadow > usuarioContra.txt
+ ```
+ 
+ - passwd contiene las paswords hasheadas de linux
+ - shadow contiene los usuarios del sistema
+ 
+ ## Sam
+ 
+ Se encuentra en system32 y es un archivo .sam que contiene las contraseñas de los usuarios de windows para obtenerlo tenemos que hacerlo mediate un linux booteado.
+
+
+## Suplantación de identidad
+
+Envia información fraudulenta disfrazado como información legítima
+
+## Keylogers
+
+## Hijacking Secuestro de sesión
+
+Mediante cookies
+
+## APT AMENAZA PERSISTENTE AVANZADA
+
+Requiere mucho tiempo y es muy costosa se hace una planificación a largo plazo.
+
+## DoS
+
+Interupción den el servicio de red
+
+### 🦜 Tipos
+
+**Cantidad abrumadora de tráfico**
+
+**Paquete malicioso formateado**
+
+## DDoS
+
+Es un DoS distribuido que proviene de multiple fuentes coordinadas.
+
+## Envenenamiento de SEO
+
+Hacer que un sitio malicioso aparezca en las primeras búsquedas del navegador.
+
+## Ataque combinado
+
+Usa diferentes técnicas juntas
