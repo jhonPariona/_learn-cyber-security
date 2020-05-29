@@ -1,6 +1,6 @@
 # Ataque
 
- ## Tipos de Atacantes
+## 🕵️ Tipos de Atacantes
  
  **Script Kiddies** Aficionados  utilizan las herramientas existentes o las instrucciones que se encuentran en Internet para llevar a cabo un ataque.
  
@@ -16,7 +16,7 @@
  
   **atacantes patrocinados por el estado** reúnen inteligencia o causan daño en nombre de su gobierno.
 
- ## Malware Malicius software
+ ## 🐛 Malware Malicius software
  
  Codigo que se usa para robar datos, evadir controles de acceso o ocacionar daños.
  
@@ -45,7 +45,7 @@
  **MitMo** Hombre en el movil Toma el control de dispositivos móviles.
  
  
- ## Ingeniería social
+ ## 🦊 Ingeniería social
  
  Manipular a las personas.
  
@@ -64,11 +64,11 @@
 
  
  
- ## [ecodificación de Contraseñas](https://github.com/jhonPariona/_learn-cyber-security/blob/master/contrase%C3%B1as.md#contrase%C3%B1as)
+ ## [🔐 Decodificación de Contraseñas](https://github.com/jhonPariona/_learn-cyber-security/blob/master/contrase%C3%B1as.md#contrase%C3%B1as)
  
-  ## bash
+ ### Shadow
  
- En linux significa que un usuario tiene una contraseña
+ bash En linux significa que un usuario tiene una contraseña
  
  ```bash
  $ unshadow /etc/passwd /etc/shadow > usuarioContra.txt
@@ -77,18 +77,18 @@
  - passwd contiene las paswords hasheadas de linux
  - shadow contiene los usuarios del sistema
  
- ## Sam
+ ### Sam
  
  Se encuentra en system32 y es un archivo .sam que contiene las contraseñas de los usuarios de windows para obtenerlo tenemos que hacerlo mediate un linux booteado.
 
 
-## Suplantación de identidad
+## 🎩 Suplantación de identidad
 
 Envia información fraudulenta disfrazado como información legítima
 
-## Keylogers
+## 🕵️ Keylogers
 
-## Hijacking Secuestro de sesión
+## 🧽 Hijacking Secuestro de sesión
 
 Mediante cookies
 
@@ -100,7 +100,7 @@ Requiere mucho tiempo y es muy costosa se hace una planificación a largo plazo.
 
 Interupción den el servicio de red
 
-### 🦜 Tipos
+### Tipos
 
 **Cantidad abrumadora de tráfico**
 
