@@ -116,5 +116,6 @@ ejem:
  
  **Heap over flow**
 
-# [Protección](https://github.com/jhonPariona/_learn-cyber-security/blob/master/proteccion.md#protecci%C3%B3n)
+## [Protección](https://github.com/jhonPariona/_learn-cyber-security/blob/master/proteccion.md#protecci%C3%B3n)
  
+ ## [Gestión de riesgos](https://github.com/jhonPariona/_learn-cyber-security/blob/master/gestionRiesgos.md)
