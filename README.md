@@ -115,3 +115,6 @@ ejem:
  **sol** usar funciones que manejan mejor la memoria como fgets() y no gets(); strncpy() y no strcpy; la mayoria tiene n en su nombre; también usar ASRL
  
  **Heap over flow**
+
+# [Protección](https://github.com/jhonPariona/_learn-cyber-security/blob/master/proteccion.md#protecci%C3%B3n)
+ 
