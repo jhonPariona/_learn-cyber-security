@@ -60,8 +60,18 @@
  **Seguimiento**
  
  **Quid pro quo Algo por algo** Solicita información a cambio de un obsequio.
+  
  
-
+ ## 🦈 Phishing
+ 
+ ⚙️ **Tools**
+ 
+ - ShellPhish
+ - Zphisher
+ - nexPhisher
+ - evilginx(MitM)
+ 
+ 
  
  
  ## [🔐 Decodificación de Contraseñas](https://github.com/jhonPariona/_learn-cyber-security/blob/master/contrase%C3%B1as.md#contrase%C3%B1as)
